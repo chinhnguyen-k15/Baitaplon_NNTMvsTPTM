@@ -58,12 +58,6 @@ Sau khi huấn luyện, mô hình được xuất ra định dạng `Arduino Lib
 
 ---
 
-## 🖥️ Giao diện serial
-
-ESP32 sẽ in ra kết quả phân loại và độ chính xác lên Serial Monitor.
-
----
-
 ## 💡 Gợi ý mở rộng
 
 - Kết nối thêm đèn thông minh hoặc điều khiển thiết bị thật
@@ -77,9 +71,8 @@ ESP32 sẽ in ra kết quả phân loại và độ chính xác lên Serial Moni
 ```
 project/
 ├── cambienamthanh.ino         # File chính ESP32
-├── nguyenrin-project-1/       # Thư viện AI từ Edge Impulse
 ├── images/
-│   └── your_circuit_image.png
+│   └── image1.png
 ├── README.md
 ```
 
