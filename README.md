@@ -32,7 +32,7 @@ A0 hoặc D0 --> Không sử dụng nếu dùng mô hình AI
 
 📸 *Ảnh sơ đồ phần cứng:*
 
-![Sơ đồ phần cứng](images/your_circuit_image.png)
+![Sơ đồ phần cứng](D:\project\images\image1.png)
 
 ---
 
@@ -87,6 +87,4 @@ project/
 
 ## 👨‍💻 Tác giả
 
-- **Họ tên**: Nguyễn Đức Thịnh
-- **Github**: https://github.com/yourusername
-- **Email**: your.email@example.com
+- **Họ tên**: Nguyễn Đăng Chính
