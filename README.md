@@ -31,9 +31,10 @@ A0 hoặc D0 --> Không sử dụng nếu dùng mô hình AI
 ```
 
 📸 *Ảnh sơ đồ phần cứng:*
+
+
 ![image](https://github.com/user-attachments/assets/9b0d8156-516a-4711-83b9-46f043ea55ed)
 
-![Sơ đồ phần cứng]
 
 ---
 
@@ -45,6 +46,8 @@ Mô hình AI được huấn luyện trên nền tảng [Edge Impulse](https://e
 - `votay_2lan`
 - `votay_3lan`
 - `khac` (không vỗ)
+  
+![image](https://github.com/user-attachments/assets/72078b6d-b129-4cd9-8f6f-71a8b74abec6)
 
 Sau khi huấn luyện, mô hình được xuất ra định dạng `Arduino Library` và tích hợp vào chương trình ESP32.
 
