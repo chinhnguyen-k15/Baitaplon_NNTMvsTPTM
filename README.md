@@ -31,8 +31,9 @@ A0 hoặc D0 --> Không sử dụng nếu dùng mô hình AI
 ```
 
 📸 *Ảnh sơ đồ phần cứng:*
+![image](https://github.com/user-attachments/assets/9b0d8156-516a-4711-83b9-46f043ea55ed)
 
-![Sơ đồ phần cứng](D:\project\images\image1.png)
+![Sơ đồ phần cứng]
 
 ---
 
